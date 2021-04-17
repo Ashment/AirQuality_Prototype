@@ -12,7 +12,7 @@ def add_timestamp(input_str):
 
 
 def main():
-    print(add_timestamp("sfw"))
+    print(add_timestamp("test string."))
 
 
 if __name__ == '__main__':
