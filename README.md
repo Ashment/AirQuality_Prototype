@@ -1,2 +1,4 @@
 # AirQuality_Prototype
-Stuff for IoT air quality sensor prototype
+### Smart Cities Technology VIP at Tandon School of Engineering.
+
+Air Quality Sensor Prototype-Related things.
